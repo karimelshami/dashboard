@@ -3,9 +3,7 @@ import Container from '@material-ui/core/Container'
 import { CircularProgress } from '@material-ui/core'
 import { useStyles } from './Login.style'
 import Form from 'modules/common/components/Form'
-const Logo =
-  'http://d1ohqf92fg2anw.cloudfront.net/emails-material/img/blue-logo.png';
-
+const Logo =''
 const Login = props => {
   const { onSubmit, loginFetching, showError } = props
   const classes = useStyles()
