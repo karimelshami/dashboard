@@ -1,0 +1,7 @@
+const commonActionTypes = {
+    GET_ALL_COUNTIRES: 'GET_ALL_COUNTIRES',
+    GET_ALL_COUNTIRES_SUCCESS: 'GET_ALL_COUNTIRES_SUCCESS',
+    GET_ALL_COUNTIRES_FAIL: 'GET_ALL_COUNTIRES_FAIL',
+}
+
+export default commonActionTypes;

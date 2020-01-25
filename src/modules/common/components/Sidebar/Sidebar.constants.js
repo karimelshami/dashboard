@@ -1,0 +1,1 @@
+export const tabs =['cities', 'main specialities', 'sub specialities', 'areas', 'area neighbours', 'insurances'];
